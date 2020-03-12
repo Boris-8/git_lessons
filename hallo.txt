@@ -3,3 +3,4 @@ hello
 Надо снова удалить
 
 hello git! (lesson_10)
+hello git rebase! (lesson_10)
